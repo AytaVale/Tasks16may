@@ -18,7 +18,7 @@ namespace Task3
                     if (point>50)
                     {
                         Console.WriteLine("Tebrikler!");
-                        isContinue = false;
+                      
                     }
                     else
                     {
